@@ -1,1 +1,7 @@
 *.bak
+*.o.d
+*.o
+*.obj
+Thumbs.db
+*.pdb
+_impact.log
